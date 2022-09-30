@@ -7,7 +7,7 @@ function prompt(msg) {
 prompt('Welcome to the calculator!')
 prompt(" What is the first number?")
 let number1 = readline.question();
-prompt(" What is the second number?")
+prompt(" What is the second number?") // This is a good question, Devin
 let number2 = readline.question();
 
 prompt("What operation would you like to perform?\n 1) Add 2) Subtract 3) Multiply 4) Divide")
